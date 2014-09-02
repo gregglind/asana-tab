@@ -1,0 +1,13 @@
+{
+    "license": "MPL", 
+    "description": "If an Asana tab is open, switch to it fast using `control + command + a`", 
+    "engines": {
+        "firefox": ">=33.0a1"
+    }, 
+    "author": "Gregg Lind <glind@mozilla.com>", 
+    "title": "Fast Switch to Asana", 
+    "version": "0.0.1", 
+    "main": "index.js", 
+    "id": "asana-tab@glind", 
+    "name": "asana-tab"
+}
