@@ -4,9 +4,10 @@
     "engines": {
         "firefox": ">=33.0a1"
     }, 
+    "homepage": "https://github.com/gregglind/asana-tab",
     "author": "Gregg Lind <glind@mozilla.com>", 
     "title": "Fast Switch to Asana", 
-    "version": "0.0.1", 
+    "version": "0.0.2", 
     "main": "index.js", 
     "id": "asana-tab@glind", 
     "name": "asana-tab"
